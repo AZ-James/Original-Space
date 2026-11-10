@@ -1,0 +1,4 @@
+# Versions currently working on the Raspberry Pi system Python.
+numpy==2.2.4
+opencv-python==4.13.0.92
+pyserial==3.5

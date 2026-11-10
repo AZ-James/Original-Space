@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=小球控制面板
+Comment=钢球中左右目标、电机锁零和坐标配置
+Exec=env DISPLAY=:0 python3 /home/bg/Desktop/control_panel.py
+Path=/home/bg/diansai
+Terminal=false
+Icon=applications-engineering
+Categories=Development;Education;
+StartupNotify=true
