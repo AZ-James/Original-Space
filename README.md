@@ -1,7 +1,7 @@
 # Original Space
 
 ## 说明
-只是 ***A-Zealous*** 学Git的元初空间
+***A-Zealous*** 的元初空间，大存档器
 后面闲着没事干可能也会传一些值得上传的东西上来吧
 <p align="right"><i>（写于2026.11.4）</i></p>
 
