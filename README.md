@@ -10,7 +10,7 @@
 - 26.11.10 对2026电赛的一部分代码与资料进行了留档
 - 26.11.11 上传电赛视觉代码和技术报告资料
 
-  其中视觉代码作者为队友 ***BrightGates***(https://github.com/BrightGates)
+  其中视觉代码作者为队友 ***BrightGates***(视觉代码仓库：https://github.com/BrightGates/steel-ball-yolo)
 
   底盘代码一部分为 ***桂花韵龙井*** 编写
 - 26.11.15 创建学习资料目录，上传了学hal库和标准库时候的笔记
